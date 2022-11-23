@@ -1,0 +1,37 @@
+.film{
+    display: flex;
+    padding:30px;
+    background-color: black;
+    color:rgb(255, 255, 255);
+    justify-content:center;
+    justify-content:space-evenly;
+    list-style-type: none;
+    
+}
+
+.imdb{
+    text-decoration: solid;
+    background-color: rgb(2, 219, 248);
+    font-weight: bold;
+    border-radius: 10px;
+    width: 100px;
+    font-size: larger;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
+}
+
+.menu{
+    font-weight: bold;      
+}
+
+#details{
+    background-color: #363636;
+}
+
+.menu:hover {
+    text-shadow: 2px 2px 13px white;
+    cursor: pointer;
+    }
+
+    .star{
+        color: #ff0800
+    }
